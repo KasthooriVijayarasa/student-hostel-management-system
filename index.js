@@ -3,6 +3,7 @@ import mongoose from "mongoose";
 import dotenv from "dotenv";
 import bodyParser from "body-parser";
 import studentRoute from "./routes/studentRoute.js";
+import authRoute from "./routes/authRoute.js";
 
 const app = express();
 
@@ -23,3 +24,4 @@ mongoose.connect(process.env.MONGO_URL)
 .catch((error) => console.log(error));
 
 app.use("/api/students", studentRoute);
+app.use("/api/auth", authRoute);

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Nimal Perera",
+    "roomNumber": 102,
+    "course": "Computer Science",
+    "checkInDate": "2025-05-10"
+  },
+  {
+    "name": "Kavindu Silva",
+    "roomNumber": 103,
+    "course": "Software Engineering",
+    "checkInDate": "2025-05-08"
+  },
+  {
+    "name": "Sanjana Raj",
+    "roomNumber": 104,
+    "course": "Information Systems",
+    "checkInDate": "2025-05-12"
+  },
+  {
+    "name": "Tharushi Fernando",
+    "roomNumber": 105,
+    "course": "Data Science",
+    "checkInDate": "2025-05-09"
+  },
+  {
+    "name": "Malith Jayawardena",
+    "roomNumber": 106,
+    "course": "Cyber Security",
+    "checkInDate": "2025-05-11"
+  }
+]
