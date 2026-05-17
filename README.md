@@ -40,3 +40,9 @@ Authentication
 | GET    | /api/students/getAll     | Get All Students |
 | PUT    | /api/students/update/:id | Update Student   |
 | DELETE | /api/students/delete/:id | Delete Student   |
+
+## Setup Instructions
+
+### Clone Repository
+```bash
+git clone https://github.com/yourusername/student-hostel-management-system.git
