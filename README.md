@@ -45,4 +45,4 @@ Authentication
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yourusername/student-hostel-management-system.git
+git clone https://github.com/KasthooriVijayarasa/student-hostel-management-system.git
